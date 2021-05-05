@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Jasper-Hawks
+# 👋 Hi, I’m Jasper Hawks
 I'm a student and aspiring Software/Web Developer from Southeast Virginia. On my profile you'll find some of my coding projects, tools and scripts that I use, and some of my hobbies.
 
 ## Projects I'm Working On 
