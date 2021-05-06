@@ -3,7 +3,6 @@ I'm a student and aspiring Software/Web Developer from Southeast Virginia. On my
 
 ## Projects I'm Working On 
 - .wiki to .md Converter in **Python**
-- A meditation timer in **Shell Script**
 - A CLI God of War based game in **Python**
 
 
