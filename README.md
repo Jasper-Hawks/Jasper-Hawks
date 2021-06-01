@@ -6,5 +6,5 @@ I'm a student and aspiring Software/Web Developer from Southeast Virginia. On my
 - A CLI God of War based game in **Python**
 - CLI Conway's Game of Life in **Python**
 
-Check me out or contact me at my [website](jasperhawks.netlify.app)
+Check me out or contact me at my [website](https://jasperhawks.netlify.app/)
 
