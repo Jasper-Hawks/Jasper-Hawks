@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Jasper Hawks
-I'm a student and aspiring Software/Web Developer from Southeast Virginia. On my profile you'll find some of my coding projects, tools and scripts that I use, and some of my hobbies. I'm currently learning as much Python as I can.
+I'm a student, aspiring Software/Web Developer, and [Free Software](https://en.wikipedia.org/wiki/Free_software) advocate from Southeast Virginia. On my profile you'll find some of my coding projects, tools and scripts that I use. I'm currently learning as much Python as I can.
 
 ## Projects I'm Working On 
 - Pysistant a CLI assistant in **Python**
+- FOSS Voice Assistant in **Python**
 
 
 Check me out or contact me at my [website](https://jasperhawks.netlify.app/)
