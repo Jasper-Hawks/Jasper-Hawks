@@ -3,6 +3,7 @@ I'm a student, aspiring Software/Web Developer, and [Free Software](https://en.w
 
 ## Projects I'm Working On 
 - Pysistant a CLI assistant in **Python**
+- An Apartments.com web scraper in **Python**
 - FOSS Voice Assistant in **Python**
 - Mobile App to track the inventory of your pantry and fridge in **UNDETERMINED**
 
