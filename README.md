@@ -2,7 +2,6 @@
 I'm a student, aspiring Software/Web Developer, and [Free Software](https://en.wikipedia.org/wiki/Free_software) advocate from Southeast Virginia. On my profile you'll find some of my coding projects, tools and scripts that I use. I'm currently learning as much Python as I can.
 
 ## Projects I'm Working On 
-- Pysistant a CLI assistant in **Python**
 - An Apartments.com web scraper in **Python**
 - FOSS Voice Assistant in **Python**
 - Mobile App to track the inventory of your pantry and fridge in **UNDETERMINED**
