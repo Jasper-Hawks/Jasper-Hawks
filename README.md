@@ -7,5 +7,7 @@ I'm a student, aspiring Software/Web Developer, and [Free Software](https://en.w
 - Mobile App to track the inventory of your pantry and fridge in **UNDETERMINED**
 - Exercising application with OpenCV in **Python**
 
+Enjoy my work consider tipping me on [Kofi](https://ko-fi.com/jasperhawks)
+
 Check me out or contact me at my [website](https://jasperhawks.netlify.app/)
 
