@@ -3,6 +3,7 @@ I'm a student, aspiring Software/Web Developer, and [Free Software](https://en.w
 
 ## Projects I'm Working On
 - Raspberry Pi Car Infotainment System in **C**
+- Rewriting Portfolio Repository
 - FOSS Voice Assistant in **C?**
 - Mobile App to track the inventory of your pantry and fridge in **UNDETERMINED**
 - Exercising application with OpenCV in **Python**
